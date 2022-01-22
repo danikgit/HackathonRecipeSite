@@ -1,5 +1,5 @@
 .parallax {
-  background-image: url("/RecipeAPI/recipeimg/Buffalo-Chicken-Dip_EXPS_FT21_34952_F_0115_1-2.jpg");
+  background-image: url("/HackathonRecipeSite/RecipeAPI/recipeimg/Buffalo-Chicken-Dip_EXPS_FT21_34952_F_0115_1-2.jpg");
   min-height: 400px;
   background-attachment: fixed;
   background-position: center;
@@ -21,7 +21,7 @@ h3 {
 }
 
 .parallax2 {
-  background-image: url("/RecipeAPI/recipeimg/Peanut-Butter-Chocolate-Dessert_EXPS_FT20_19201_F_0729_1-1.jpg");
+  background-image: url("/HackathonRecipeSite/RecipeAPI/recipeimg/Peanut-Butter-Chocolate-Dessert_EXPS_FT20_19201_F_0729_1-1.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -30,7 +30,7 @@ h3 {
 }
 
 .parallax3 {
-  background-image: url("/RecipeAPI/recipeimg/Homemade-Chicken-Tortilla-Soup_EXPS_THFM17_29319_C09_28_5b-14.jpg");
+  background-image: url("/HackathonRecipeSite/RecipeAPI/recipeimg/Homemade-Chicken-Tortilla-Soup_EXPS_THFM17_29319_C09_28_5b-14.jpg");
   min-height: 500px;
   background-attachment: fixed;
   background-position: center;

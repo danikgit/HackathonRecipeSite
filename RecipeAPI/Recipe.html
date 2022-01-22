@@ -10,6 +10,11 @@
 </head>
 
 <body>
+    <form>
+        <input name="t1" placeholder="Enter Name" /><br />
+        <input name="t2" placeholder="Enter Age" /><br />
+        <input type="button" onclick="sayHello(t1.value, t2.value)" value="Say Hello">
+    </form>
     <h1>Top Three Recipes</h1>
     <div class="parallax"></div>
     <div style="height:820px;background-color:lightgrey;font-size:36px">
@@ -102,6 +107,7 @@
                 serving.</li>
         </ol>
     </div>
+    <script type="text/javascript" src="recipe.js"></script>
 </body>
 
 </html>
